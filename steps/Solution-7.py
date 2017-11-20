@@ -9,7 +9,7 @@ pip install behave
 
 3. Make sure that your test script is in steps directory
 
-4. Execute this script from the steps path using "behave" command in the prompt
+4. Execute this script from the scripts path using "behave --summary" command from the prompt
 """
 
 #Importing behave module
